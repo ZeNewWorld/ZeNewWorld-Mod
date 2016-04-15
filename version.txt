@@ -1,5 +1,1 @@
 b0002-pre-alpha
-§bChangelog:
- §a+ Added something
- §c- Removed something
- §e* Fixed something
